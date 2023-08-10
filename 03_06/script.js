@@ -21,4 +21,7 @@ const backpack = {
   },
 };
 
+var query = "pocketNum"
+
+console.log("The pocketNum Value:", backpack[query])
 console.log("The backpack object:", backpack);
